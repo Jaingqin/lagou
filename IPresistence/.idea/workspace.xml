@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="def9255f-f42e-4f01-bc71-6f35345668b2" name="Default Changelist" comment="">
+      <change afterPath="$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.10/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.10/druid-spring-boot-starter-1.1.10.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.10/druid-spring-boot-starter-1.1.10.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.10/druid-spring-boot-starter-1.1.10.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.10/druid-spring-boot-starter-1.1.10.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/druid-spring/unknown/druid-spring-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/jaxen/jaxen/1.1.6/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/jaxen/jaxen/1.1.6/jaxen-1.1.6.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/jaxen/jaxen/1.1.6/jaxen-1.1.6.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.10/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.12/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-conn/1.1.10/mysql-conn-1.1.10.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-conn/1.1.10/mysql-conn-1.1.10.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/1.1.10/mysql-connector-java-1.1.10.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.17/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector/1.1.10/mysql-connector-1.1.10.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connector/1.1.10/mysql-connector-1.1.10.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connet/1.1.10/mysql-connet-1.1.10.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/mysql/mysql-connet/1.1.10/mysql-connet-1.1.10.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-project-info-reports-plugin/3.0.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-project-info-reports-plugin/3.0.0/maven-project-info-reports-plugin-3.0.0.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-project-info-reports-plugin/3.0.0/maven-project-info-reports-plugin-3.0.0.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-project-info-reports-plugin/3.0.0/maven-project-info-reports-plugin-3.0.0.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-project-info-reports-plugin/3.0.0/maven-project-info-reports-plugin-3.0.0.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-parent/31/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-parent/31/mybatis-parent-31.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-parent/31/mybatis-parent-31.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.3/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.3/mybatis-spring-2.0.3.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.3/mybatis-spring-2.0.3.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.3/mybatis-spring-2.0.3.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.3/mybatis-3.5.3.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.1/mybatis-spring-boot-autoconfigure-2.1.1.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.1/mybatis-spring-boot-autoconfigure-2.1.1.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.1/mybatis-spring-boot-autoconfigure-2.1.1.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.1/mybatis-spring-boot-autoconfigure-2.1.1.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot/2.1.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot/2.1.1/mybatis-spring-boot-2.1.1.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot/2.1.1/mybatis-spring-boot-2.1.1.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlom/spring-boot-devtools/unknown/spring-boot-devtools-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlom/spring-boot-devtools/unknown/spring-boot-devtools-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.2.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.2.RELEASE/spring-boot-dependencies-2.2.2.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.2.RELEASE/spring-boot-dependencies-2.2.2.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-actuator/2.2.2.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-actuator/2.2.2.RELEASE/spring-boot-starter-actuator-2.2.2.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-actuator/2.2.2.RELEASE/spring-boot-starter-actuator-2.2.2.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.2.2.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.2.2.RELEASE/spring-boot-starter-test-2.2.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.2.2.RELEASE/spring-boot-starter-test-2.2.2.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.2.2.RELEASE/spring-boot-starter-test-2.2.2.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.2.2.RELEASE/spring-boot-starter-test-2.2.2.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.2.2.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.2.2.RELEASE/spring-boot-starter-2.2.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.2.2.RELEASE/spring-boot-starter-2.2.2.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.2.2.RELEASE/spring-boot-starter-2.2.2.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.2.2.RELEASE/spring-boot-starter-2.2.2.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-aws-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-aws-dependencies/2.2.1.RELEASE/spring-cloud-aws-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-aws-dependencies/2.2.1.RELEASE/spring-cloud-aws-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-bus-dependencies/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-bus-dependencies/2.2.0.RELEASE/spring-cloud-bus-dependencies-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-bus-dependencies/2.2.0.RELEASE/spring-cloud-bus-dependencies-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/1.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/1.0.0.RELEASE/spring-cloud-circuitbreaker-dependencies-1.0.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-circuitbreaker-dependencies/1.0.0.RELEASE/spring-cloud-circuitbreaker-dependencies-1.0.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.2.0.RELEASE/spring-cloud-cloudfoundry-dependencies-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.2.0.RELEASE/spring-cloud-cloudfoundry-dependencies-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons-dependencies/2.2.1.RELEASE/spring-cloud-commons-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons-dependencies/2.2.1.RELEASE/spring-cloud-commons-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-dependencies/2.2.1.RELEASE/spring-cloud-config-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-dependencies/2.2.1.RELEASE/spring-cloud-config-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-dependencies/2.2.1.RELEASE/spring-cloud-consul-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul-dependencies/2.2.1.RELEASE/spring-cloud-consul-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-contract-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-contract-dependencies/2.2.1.RELEASE/spring-cloud-contract-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-contract-dependencies/2.2.1.RELEASE/spring-cloud-contract-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.RELEASE/spring-cloud-dependencies-parent-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.0.RELEASE/spring-cloud-dependencies-parent-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.1.RELEASE/spring-cloud-dependencies-parent-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies-parent/2.2.1.RELEASE/spring-cloud-dependencies-parent-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR1/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR1/spring-cloud-dependencies-Hoxton.SR1.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR1/spring-cloud-dependencies-Hoxton.SR1.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-function-dependencies/3.0.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-function-dependencies/3.0.1.RELEASE/spring-cloud-function-dependencies-3.0.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-function-dependencies/3.0.1.RELEASE/spring-cloud-function-dependencies-3.0.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-dependencies/2.2.1.RELEASE/spring-cloud-gateway-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-dependencies/2.2.1.RELEASE/spring-cloud-gateway-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gcp-dependencies/1.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gcp-dependencies/1.2.1.RELEASE/spring-cloud-gcp-dependencies-1.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gcp-dependencies/1.2.1.RELEASE/spring-cloud-gcp-dependencies-1.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.1.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.1.1.RELEASE/spring-cloud-kubernetes-dependencies-1.1.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.1.1.RELEASE/spring-cloud-kubernetes-dependencies-1.1.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-dependencies/2.2.1.RELEASE/spring-cloud-netflix-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-dependencies/2.2.1.RELEASE/spring-cloud-netflix-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.2.1.RELEASE/spring-cloud-openfeign-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.2.1.RELEASE/spring-cloud-openfeign-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-security-dependencies/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-security-dependencies/2.2.0.RELEASE/spring-cloud-security-dependencies-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-security-dependencies/2.2.0.RELEASE/spring-cloud-security-dependencies-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.2.1.RELEASE/spring-cloud-sleuth-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.2.1.RELEASE/spring-cloud-sleuth-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-dependencies/Horsham.SR1/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-dependencies/Horsham.SR1/spring-cloud-stream-dependencies-Horsham.SR1.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-dependencies/Horsham.SR1/spring-cloud-stream-dependencies-Horsham.SR1.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-task-dependencies/2.2.2.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-task-dependencies/2.2.2.RELEASE/spring-cloud-task-dependencies-2.2.2.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-task-dependencies/2.2.2.RELEASE/spring-cloud-task-dependencies-2.2.2.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-vault-dependencies/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-vault-dependencies/2.2.1.RELEASE/spring-cloud-vault-dependencies-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-vault-dependencies/2.2.1.RELEASE/spring-cloud-vault-dependencies-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.2.0.RELEASE/spring-cloud-zookeeper-dependencies-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.2.0.RELEASE/spring-cloud-zookeeper-dependencies-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="H:/com.atguigu.springcloud/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="H:/com.atguigu.springcloud/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change afterPath="H:/com.atguigu.springcloud/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPersistence_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPersistence_test/src/main/resources/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPersistence_test/src/main/resources/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPersistence_test/src/main/resources/sqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/config/BoundSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/config/XMLConfigBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/config/XMLMapperBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/pojo/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/pojo/MappedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SqlSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SqlSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SqlSessionFactoryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/utils/GenericTokenParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/utils/ParameterMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/utils/ParameterMappingTokenHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/utils/TokenHandler.java" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/01_前言闲聊和课程说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/02_零基础微服务架构理论入门.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/03_第二季Boot和Cloud版本选型.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/04_Cloud组件停更说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/05_父工程Project空间新建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/06_父工程pom文件.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/07_复习DependencyManagement和Dependencies.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/08_支付模块构建(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/09_支付模块构建(中).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/100_Nacos服务注册中心对比提升.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/101_Nacos之服务配置中心.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/102_Nacos之命名空间分组和DataID三者关系.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/103_Nacos之DataID配置.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/104_Nacos之Group分组方案.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/105_Nacos之Namespace空间方案.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/106_Nacos集群_架构说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/107_Nacos持久化切换配置.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/108_Nacos之Linux版本安装.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/109_Nacos集群配置(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/10_支付模块构建(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/110_Nacos集群配置(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/111_Sentinel是什么.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/112_Sentinel下载安装运行.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/113_Sentinel初始化监控.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/114_Sentinel流控规则简介.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/115_Sentinel流控-QPS直接失败.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/116_Sentinel流控-线程数直接失败.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/117_Sentinel流控-关联.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/118_Sentinel流控-预热.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/119_Sentinel流控-排队等待.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/11_热部署Devtools.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/120_Sentinel降级简介.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/121_Sentinel降级-RT.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/122_Sentinel降级-异常比例.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/123_Sentinel降级-异常数.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/124_Sentinel热点key(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/125_Sentinel热点key(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/126_Sentinel系统规则.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/127_SentinelResource配置(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/128_SentinelResource配置(中).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/129_SentinelResource配置(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/12_消费者订单模块(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/130_Sentinel服务熔断Ribbon环境预说.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/131_Sentinel服务熔断无配置.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/132_Sentinel服务熔断只配置fallback.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/133_Sentinel服务熔断只配置blockHandler.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/134_Sentinel服务熔断fallback和blockHandler都配置.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/135_Sentinel服务熔断exceptionsToIgnore.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/136_Sentinel服务熔断OpenFeign.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/137_Sentinel持久化规则.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/138_分布式事务问题由来.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/139_Seata术语.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/13_消费者订单模块(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/140_Seata-Server安装.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/141_Seata业务数据库准备.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/142_Seata之Order-Module配置搭建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/143_Seata之Order-Module撸码(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/144_Seata之Order-Module撸码(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/145_Seata之Storage-Module说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/146_Seata之Account-Module说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/147_Seata之@GlobalTransactional验证.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/148_Seata之原理简介.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/149_大厂面试第三季预告片之雪花算法(上).avi" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/14_工程重构.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/150_大厂面试第三季预告片之雪花算法(下).avi" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/15_Eureka基础知识.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/16_EurekaServer服务端安装.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/17_支付微服务8001入驻进eurekaServer.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/18_订单微服务80入驻进eurekaServer.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/19_Eureka集群原理说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/20_Eureka集群环境构建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/21_订单支付两微服务注册进Eureka集群.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/22_支付微服务集群配置.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/23_actuator微服务信息完善.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/24_服务发现Discovery.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/25_Eureka自我保护理论知识.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/26_怎么禁止自我保护.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/27_Eureka停更说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/28_支付服务注册进zookeeper.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/29_临时还是持久节点.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/30_订单服务注册进zookeeper.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/31_Consul简介.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/32_安装并运行Consul.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/33_服务提供者注册进Consul.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/34_服务消费者注册进Consul.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/35_三个注册中心异同点.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/36_Ribbon入门介绍.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/37_Ribbon的负载均衡和Rest调用.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/38_Ribbon默认自带的负载规则.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/39_Ribbon负载规则替换.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/40_Ribbon默认负载轮训算法原理.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/41_RoundRobinRule源码分析.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/42_Ribbon之手写轮询算法.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/43_OpenFeign是什么.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/44_OpenFeign服务调用.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/45_OpenFeign超时控制.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/46_OpenFeign日志增强.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/47_Hystrix是什么.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/48_Hystrix停更进维.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/49_Hystrix的服务降级熔断限流概念初讲.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/50_Hystrix支付微服务构建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/51_JMeter高并发压测后卡顿.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/52_订单微服务调用支付服务出现卡顿.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/53_降级容错解决的维度要求.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/54_Hystrix之服务降级支付侧fallback.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/55_Hystrix之服务降级订单侧fallback.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/56_Hystrix之全局服务降级DefaultProperties.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/57_Hystrix之通配服务降级FeignFallback.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/58_Hystrix之服务熔断理论.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/59_Hystrix之服务熔断案例(上).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/60_Hystrix之服务熔断案例(下).mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/61_Hystrix之服务熔断总结.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/62_Hystrix工作流程最后总结.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/63_Hystrix图形化Dashboard搭建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/64_Hystrix图形化Dashboard监控实战.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/65_GateWay和Zuul课程说明.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/66_GateWay是什么.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/67_GateWay非阻塞异步模型.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/68_Gateway工作流程.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/69_Gateway9527搭建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/70_Gateway配置路由的两种方式.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/71_GateWay配置动态路由.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/72_GateWay常用的Predicate.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/73_GateWay的Filter.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/74_Config分布式配置中心介绍.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/75_Config配置总控中心搭建.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/76_Config客户端配置与测试.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/77_Config动态刷新之手动版.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/78_Bus消息总线是什么.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/79_Bus之RabbitMQ环境配置.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/80_Bus动态刷新全局广播的设计思想和选型.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/81_Bus动态刷新全局广播配置实现.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/82_Bus动态刷新定点通知.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/83_Stream为什么被引入.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/84_Stream是什么及Binder介绍.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/85_Stream的设计思想.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/86_Stream编码常用注解简介.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/87_Stream消息驱动之生产者.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/88_Stream消息驱动之消费者.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/89_Stream之消息重复消费.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/90_Stream之group解决消息重复消费.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/91_Stream之消息持久化.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/92_Sleuth是什么.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/93_Sleuth之zipkin搭建安装.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/94_Sleuth链路监控展现.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/95_Cloud Alibaba简介.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/96_Nacos简介和下载.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/97_Nacos安装.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/98_Nacos之服务提供者注册.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/99_Nacos之服务消费者注册和负载.mp4" afterDir="false" />
+      <change afterPath="H:/尚硅谷SpringCloud第2季2020.3.2/视频/课程说明.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="191" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IPersistence_test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="H:/" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="H:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="H:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="1b1uU2kyIEgyJClLpnmEN3fBN65" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IPersistence_test/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\lagouWork\IPersistence_test\src\main\resources" />
+      <recent name="H:\lagouWork\IPresistence\src\main\java\com\lagou" />
+      <recent name="H:\lagouWork\IPresistence\src\main\java\com\lagou\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IPersistenceTest.test">
+    <configuration name="IPersistenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistence_test [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../IPersistence_test" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+        <item itemvalue="JUnit.IPersistenceTest" />
+        <item itemvalue="Maven.IPersistence_test [install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="def9255f-f42e-4f01-bc71-6f35345668b2" name="Default Changelist" comment="" />
+      <created>1587811932131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587811932131</updated>
+      <workItem from="1587811935851" duration="1895000" />
+      <workItem from="1587872747661" duration="3057000" />
+      <workItem from="1587887244180" duration="615000" />
+      <workItem from="1587887880522" duration="15832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="110" key="#IPersistence_test_[install]" timestamp="1587887179712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="110" key="#IPersistence_test_[install]/0.0.1920.1040@0.0.1920.1040" timestamp="1587887179712" />
+    <state x="870" y="220" key="#IPresistence_[install]_(1)" timestamp="1587887077370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="870" y="220" key="#IPresistence_[install]_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1587887077370" />
+    <state x="552" y="177" key="#Project_Structure" timestamp="1587888280668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587888280668" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587887619265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587887619265" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1587900062579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587900062579" />
+    <state x="304" y="442" width="1196" height="598" key="#xdebugger.evaluate" timestamp="1587904626030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="304" y="442" width="1196" height="598" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1587904626030" />
+    <state x="694" y="280" key="EnvironmentVariablesDialog" timestamp="1587888240260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="280" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587888240260" />
+    <state x="740" y="209" key="FileChooserDialogImpl" timestamp="1587887613259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="209" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587887613259" />
+    <state width="1876" height="476" key="GridCell.Tab.0.bottom" timestamp="1587905493155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="476" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587905493155" />
+    <state width="1876" height="476" key="GridCell.Tab.0.center" timestamp="1587905493155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="476" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587905493155" />
+    <state width="1876" height="476" key="GridCell.Tab.0.left" timestamp="1587905493155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="476" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587905493155" />
+    <state width="1876" height="476" key="GridCell.Tab.0.right" timestamp="1587905493155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="476" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587905493155" />
+    <state width="1876" height="147" key="GridCell.Tab.1.bottom" timestamp="1587905483088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="147" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587905483088" />
+    <state width="1876" height="147" key="GridCell.Tab.1.center" timestamp="1587905483087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="147" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587905483087" />
+    <state width="1876" height="147" key="GridCell.Tab.1.left" timestamp="1587905483087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="147" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587905483087" />
+    <state width="1876" height="147" key="GridCell.Tab.1.right" timestamp="1587905483087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="147" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587905483087" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1587889609077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587889609077" />
+    <state x="600" y="216" key="NewModule_or_Project.wizard" timestamp="1587811968851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="216" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587811968851" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1587888673499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587888673499" />
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1587887882968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587887882968" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IPersistence_test$IPersistenceTest_test.ic" NAME="IPersistenceTest.test Coverage Results" MODIFIED="1587904471758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lagou.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
